@@ -1,6 +1,6 @@
-package mockexam.quotegenerator;
+package quote.quotegenerator;
 
-import mockexam.quotegenerator.view.QuoteGeneratorUI;
+import quote.quotegenerator.view.QuoteGeneratorUI;
 
 import javax.swing.*;
 

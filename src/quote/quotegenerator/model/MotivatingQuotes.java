@@ -1,4 +1,4 @@
-package mockexam.quotegenerator.model;
+package quote.quotegenerator.model;
 
 import java.util.Random;
 

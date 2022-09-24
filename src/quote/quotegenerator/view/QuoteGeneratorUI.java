@@ -1,6 +1,6 @@
-package mockexam.quotegenerator.view;
+package quote.quotegenerator.view;
 
-import mockexam.quotegenerator.control.QuoteManager;
+import quote.quotegenerator.control.QuoteManager;
 
 import javax.swing.*;
 import javax.swing.border.Border;

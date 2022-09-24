@@ -1,6 +1,6 @@
-package mockexam.quotegenerator.control;
+package quote.quotegenerator.control;
 
-import mockexam.quotegenerator.model.MotivatingQuotes;
+import quote.quotegenerator.model.MotivatingQuotes;
 
 /**
  * A controller that manages the quotes.
